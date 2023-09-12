@@ -21,7 +21,7 @@ maximum numbers of orders were placed on january & july month
 ### 3) Percentage of sales by pizza size
 Large size contributes to maximum sales
 
-### 4) Percentage of sales by pizza Category
+### 4) Total pizza sold by pizza Category
 Classic category contributes to maximum sales
 
 ### 5) Top 5 and bottom 5 pizza by revenue
@@ -29,6 +29,8 @@ The Thai chicken Pizza contributes to highest revenue and The Brie Carrie Pizza 
 
 ### 6) Top 5 and bottom 5 Pizza based on total quantity
 The Classic Deluxe Pizza contributes to maximum total quanity and The Brie Carrie Pizza contributes to minimum total quanity
+
+### 7) Top 5 and bottom 5 Pizza by total orders
 
 # Suggestions
 ### 1) Promotion Strategies:

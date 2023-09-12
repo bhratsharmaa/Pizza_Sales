@@ -4,6 +4,7 @@
 
 ![piza2](https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/8cb31a6d-36c4-4ff5-9b34-13d3c03b1a8b)
 
+
  
 Welcome to the Pizza Sales Analysis  repository!.
 In the competitive world of pizza restaurants, understanding customer preferences, sales patterns, and market trends is essential for success.This project combines the power of SQL data analysis and data visualization to provide comprehensive insights into pizza sales data.

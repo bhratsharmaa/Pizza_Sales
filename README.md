@@ -1,7 +1,8 @@
 # Pizza Sales analysis project 
 
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCvHv98qvWrgpni2f3HxYRTQI4v2PPA4RCVwy1yJ-aeQFliHaOZ1MkFCPPCMk6m1JjCkw&usqp=CAU
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjkSSn_4oCdnD47q1CmFQk4VyCk9drHoYbmTArhCLbm8WkDRjHhOaKEEH8No_pPQKTTg&usqp=CAU
+
 
  
 Welcome to the Pizza Sales Analysis  repository!.

@@ -49,8 +49,8 @@ The Thai chicken Pizza contributes to highest revenue and The Brie Carrie Pizza 
 The Classic Deluxe Pizza contributes to maximum total quanity and The Brie Carrie Pizza contributes to minimum total quanity
 
 
-<img width="480" alt="66rd" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/fa309dc4-a975-42d5-8682-54f6874c9062">
 
+<img width="480" alt="66rd" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/a8156c95-d38a-42df-aa04-31cab5c40f81">
 
 
 # Dashboards

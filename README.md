@@ -4,6 +4,7 @@
 [<img width="480" alt="66rd" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/a8156c95-d38a-42df-aa04-31cab5c40f81">](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fa4%2F36%2F70%2Fa43670c098fa0835f20ee13da3fe4214.gif&tbnid=05Wg3wb-5eeRUM&vet=12ahUKEwjH_JKCi6aBAxVE_DgGHU7nCwYQMygIegUIARCMAQ..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F631911391467450570%2F&docid=jvUPOVTFm9BP2M&w=480&h=480&q=pizza%20gif&ved=2ahUKEwjH_JKCi6aBAxVE_DgGHU7nCwYQMygIegUIARCMAQ)
 
 
+
 Welcome to the Pizza Sales Analysis  repository!.
 In the competitive world of pizza restaurants, understanding customer preferences, sales patterns, and market trends is essential for success.This project combines the power of SQL data analysis and data visualization to provide comprehensive insights into pizza sales data.
 

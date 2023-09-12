@@ -1,9 +1,8 @@
 # Pizza Sales analysis project 
 
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjkSSn_4oCdnD47q1CmFQk4VyCk9drHoYbmTArhCLbm8WkDRjHhOaKEEH8No_pPQKTTg&usqp=CAU
 
-
+![piza2](https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/8cb31a6d-36c4-4ff5-9b34-13d3c03b1a8b)
 
  
 Welcome to the Pizza Sales Analysis  repository!.

@@ -40,6 +40,11 @@ Classic category contributes to maximum sales
 ### 5) Top 5 and bottom 5 pizza by revenue
 The Thai chicken Pizza contributes to highest revenue and The Brie Carrie Pizza contributes to Lowest revenue
 
+
+
+<img width="477" alt="55rd" src="https://github.com/bhratsharmaa/SSWIGGY/assets/132134997/f261917f-52eb-469e-a961-83ea6af4aac4">
+
+
 ### 6) Top 5 and bottom 5 Pizza based on total quantity
 The Classic Deluxe Pizza contributes to maximum total quanity and The Brie Carrie Pizza contributes to minimum total quanity
 

@@ -4,6 +4,7 @@
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjkSSn_4oCdnD47q1CmFQk4VyCk9drHoYbmTArhCLbm8WkDRjHhOaKEEH8No_pPQKTTg&usqp=CAU
 
 
+
  
 Welcome to the Pizza Sales Analysis  repository!.
 In the competitive world of pizza restaurants, understanding customer preferences, sales patterns, and market trends is essential for success.This project combines the power of SQL data analysis and data visualization to provide comprehensive insights into pizza sales data.

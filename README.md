@@ -6,14 +6,45 @@
 
 
  
-Welcome to the Pizza Sales Analysis  repository!.
-In the competitive world of pizza restaurants, understanding customer preferences, sales patterns, and market trends is essential for success.This project combines the power of SQL data analysis and data visualization to provide comprehensive insights into pizza sales data.
+## Objective :
+
+The primary objective of this project was to perform a comprehensive analysis of pizza sales data and leverage the insights to develop visually appealing dashboards. These dashboards are designed to assist the management in making informed decisions to enhance sales and overall business performance.
+
+
+## Project Description :
+
+### 1) Data Import to MS SQL Server:
+
+The project began by importing raw data into Microsoft SQL Server, ensuring data accuracy, consistency, and security. This process involved data cleansing and transformation to prepare it for analysis.
+
+### 2) SQL Queries:
+
+The power of SQL queries was harnessed to extract valuable insights from the dataset. This included data aggregation, filtering, and joining multiple tables to create a coherent dataset for visualization.
+
+### 3) Data Import to Power BI:
+
+To leverage Power BI's robust visualization capabilities, the processed data was seamlessly imported from SQL Server into Power BI, creating a strong foundation for visualizations.
+
+### 4) DAX Queries:
+
+The Data Analysis Expressions (DAX) language allowed us to perform advanced calculations and create calculated columns and measures, adding depth to our analysis. This step was crucial in uncovering hidden patterns and trends within the data.
+
+### 5) Chart Building:
+
+The project came to life with captivating charts and visualizations. The appropriate chart types (e.g., bar charts, line charts, scatter plots) were carefully selected to represent data insights effectively. Color schemes and formatting were thoughtfully chosen to enhance the overall aesthetic.
+
+### 6) Dashboard Creation:
+
+To provide a holistic view of the analysis, interactive dashboards were designed to allow users to explore data intuitively. These dashboards incorporated multiple charts, slicers, and filters, enabling users to customize their experience and gain insights tailored to their needs.
+
 
 
 ## 🛠 Tools used
 
 
 MS SQL,POWER BI, MS WORD
+
+
 
 # Some of the insights
 ### 1) Daily trend for total orders

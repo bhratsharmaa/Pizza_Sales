@@ -59,6 +59,11 @@ MS SQL,POWER BI, MS WORD
 
 
 
+
+
+
+
+
 <img width="380" alt="1b" src="https://github.com/bhratsharmaa/Pizza_Sales_analysis/assets/132134997/5e205cdf-f5f3-4768-bdba-f3c482d303fc">
 
 

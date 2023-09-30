@@ -420,3 +420,27 @@ Expand the classic pizza category by introducing new classic pizza options or va
  Plan inventory management strategies to meet the demand for popular pizza options during peak times, ensuring no stockouts or delays.
 
 
+
+ # Challenges faced and solutions 
+
+## Challenge 1:
+ Extracting actionable insights from a large dataset can be daunting. Crafting SQL queries that yield meaningful insights can be time-consuming.
+
+## Approach:
+ Embraced this challenge by employing advanced SQL techniques, including aggregations, subqueries, and joins. By systematically analyzing the data, we identified trends, correlations, and outliers to uncover valuable insights that could drive sales growth.
+
+## Challenge 2:
+Selecting the most appropriate chart types in Power BI to effectively communicate insights can be complex. Using the wrong chart type may obscure the message or mislead stakeholders.
+
+## Approach:
+ Tackled this challenge by considering the nature of each insight. Meticulously matched the data and insights with appropriate chart types such as bar charts, line graphs, scatter plots, and heatmaps. This approach ensured that our visualizations effectively conveyed the information at hand.
+
+ ## Challenge 3:
+ Building an interactive Power BI dashboard with slicers that cater to diverse user needs can be intricate. Balancing functionality and simplicity is crucial.
+
+ ## Approach:
+ arefully designed the dashboard layout and integrated slicers strategically.
+
+
+
+
